@@ -92,5 +92,6 @@ function rafet() {
       sum -= current;
     }
   }
+  console.log(sum + prev);
   document.getElementById("res_2").innerHTML = sum + prev;
 }

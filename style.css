@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+#converter {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  background-color: yellow;
+  align-self: center;
+  justify-content: center;
+  margin: 30px;
+  padding: 30px;
+}
+#roman {
+  align-self: center;
+  justify-content: center;
+}
